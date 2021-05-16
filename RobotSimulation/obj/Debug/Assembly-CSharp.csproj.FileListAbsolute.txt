@@ -1,0 +1,2 @@
+E:\STUDY\SignalSameBox\New Unity Project\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+E:\STUDY\SignalSameBox\New Unity Project\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
